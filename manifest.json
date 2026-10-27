@@ -1,0 +1,9 @@
+{
+  "id": "canvas-view-memory",
+  "name": "Canvas View Memory",
+  "version": "0.1.0",
+  "minAppVersion": "1.13.7",
+  "description": "Remember and restore each canvas's last position and zoom.",
+  "author": "CJ Zhou",
+  "isDesktopOnly": true
+}
